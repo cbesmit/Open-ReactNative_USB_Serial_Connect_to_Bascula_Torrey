@@ -22,4 +22,4 @@ Usando el plugin de **react-native-usb-serialport**
 [https://github.com/flyskywhy/react-native-usb-serialport](https://github.com/flyskywhy/react-native-usb-serialport)
 
 ## Toda la información de instalación y configuración la encuentras en:
-[https://besmit.notion.site/App-Android-React-Native-conectar-por-puerto-USB-Serial-B-scula-Torrey-PCR40-N-834391fff32848819aad907b9e83a445](App-Android-React-Native-conectar-por-puerto-USB-Serial-B-scula-Torrey-PCR40-N)
+https://besmit.notion.site/App-Android-React-Native-conectar-por-puerto-USB-Serial-B-scula-Torrey-PCR40-N-834391fff32848819aad907b9e83a445
